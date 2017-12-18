@@ -1,2 +1,2 @@
 # RandomInPython
-some functions for random module in python
+some functions related to  'random' module in python
